@@ -1,0 +1,15 @@
+##### Create custom reward function
+
+https://github.com/jxx123/simglucose/blob/master/examples/custom_reward_function.py
+
+##### How to use more than one patient
+
+https://github.com/jxx123/simglucose/blob/master/examples/run_multi_patient_multi_scenario.py
+
+##### data that i suppose we have available
+
+https://github.com/jxx123/simglucose/blob/master/screenshots/animate.png
+
+#### Found explanation simglucose and a project
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9469983/
