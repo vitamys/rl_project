@@ -13,3 +13,8 @@ https://github.com/jxx123/simglucose/blob/master/screenshots/animate.png
 #### Found explanation simglucose and a project
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9469983/
+
+### cho value
+
+observation, reward, done, info = env.step(action)
+info['meal'] == cho
