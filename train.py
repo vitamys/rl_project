@@ -9,6 +9,9 @@ import collections
 from torch.optim.lr_scheduler import StepLR
 from gymnasium.wrappers import FlattenObservation
 import simglucose
+import warnings
+
+warnings.filterwarnings("ignore")
 
 """
 Implementation of Double DQN for gym environments with discrete action space.
